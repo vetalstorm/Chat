@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Text5_8</string>
+    <string name="man">Man</string>
+    <string name="woman">Woman</string>
+    <string name="send">Send</string>
+    <string name="back">Back</string>
+    <string name="some_text">Some Text</string>
+</resources>
